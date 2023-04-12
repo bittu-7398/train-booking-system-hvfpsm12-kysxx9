@@ -1,0 +1,214 @@
+{
+  "type": "bus",
+  "seats": [
+    {
+      "seatNo": 1,
+      "status": "booked",
+      "category": 2,
+      "bookedBy": "xyz",
+      "gender": "",
+      "row": 1
+    },
+    {
+      "seatNo": 2,
+      "status": "booked",
+      "category": 2,
+      "bookedBy": "xyz",
+      "gender": "",
+      "row": 1
+    },
+    {
+      "seatNo": 3,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 1
+    },
+    {
+      "seatNo": 4,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 1
+    },
+    {
+      "seatNo": 5,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 1
+    },
+    {
+      "seatNo": 6,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "vinod",
+      "gender": "",
+      "row": 2
+    },
+    {
+      "seatNo": 7,
+      "status": "booked",
+      "category": 2,
+      "bookedBy": "vinod",
+      "gender": "",
+      "row": 2
+    },
+    {
+      "seatNo": 8,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 2
+    },
+    {
+      "seatNo": 9,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 2
+    },
+    {
+      "seatNo": 10,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 2
+    },
+
+
+    {
+      "seatNo": 11,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 3
+    },
+    {
+      "seatNo": 12,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 3
+    },
+    {
+      "seatNo": 13,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 3
+    },
+    {
+      "seatNo": 14,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 3
+    },
+    {
+      "seatNo": 15,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 3
+    },
+
+
+
+    {
+      "seatNo": 16,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 4
+    },
+    {
+      "seatNo": 17,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 4
+    },
+    {
+      "seatNo": 18,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 4
+    },
+    {
+      "seatNo": 19,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 4
+    },
+    {
+      "seatNo": 20,
+      "status": "booked",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 4
+    },
+
+    {
+      "seatNo": 21,
+      "status": "available",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 5
+    },
+    {
+      "seatNo": 22,
+      "status": "booked",
+      "category": 2,
+      "bookedBy": "",
+      "gender": "",
+      "row": 5
+    },
+    {
+      "seatNo": 23,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 5
+    },
+    {
+      "seatNo": 24,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 5
+    },
+    {
+      "seatNo": 25,
+      "status": "available",
+      "category": 3,
+      "bookedBy": "",
+      "gender": "",
+      "row": 5
+    }
+
+
+
+  ]
+}

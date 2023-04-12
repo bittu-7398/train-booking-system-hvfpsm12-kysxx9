@@ -1,0 +1,56 @@
+p {
+  font-family: Lato;
+}
+
+p {
+  font-family: Lato;
+}
+
+
+.seats-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 36px;
+}
+
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.seat {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  margin: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+<table>
+  <tr>
+  
+    <td [ngClass]="{'available': isAvailable(1), 'booked': !isAvailable(1)}">1</td>
+    <td [ngClass]="{'available': isAvailable(2), 'booked': !isAvailable(2)}">2</td>
+    <td [ngClass]="{'available': isAvailable(3), 'booked': !isAvailable(3)}">3</td>
+    <td [ngClass]="{'available': isAvailable(4), 'booked': !isAvailable(4)}">4</td>
+    <td [ngClass]="{'available': isAvailable(5), 'booked': !isAvailable(5)}">5</td>
+    <td [ngClass]="{'available': isAvailable(6), 'booked': !isAvailable(6)}">6</td>
+    <td [ngClass]="{'available': isAvailable(7), 'booked': !isAvailable(7)}">7</td>
+  </tr>
+  <!-- Repeat the above row for each row in the coach -->
+</table>
+
+
+
+.booked {
+  background-color: #f00;
+}
+
+.selected {
+  background-color: #0f0;
+}

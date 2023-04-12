@@ -1,0 +1,17 @@
+<hello name="{{ name }}"></hello>
+<p>
+  SELECT YOUR SEAT
+</p>
+<div class="seats-container">
+  <div *ngFor="let row of rows" class="row">
+    <div *ngFor="let seat of row.seats" 
+         [ngClass]="{'seat': true, 'booked': seat.booked, 'selected': seat.selected}"
+         (click)="toggleSeatSelection(seat)">
+      {{ seat.number }}
+    </div>
+  </div>
+<h3>Book Your Ticket</h3>
+<div class="container">
+  <book-ticket></book-ticket>
+</div>
+</div>
